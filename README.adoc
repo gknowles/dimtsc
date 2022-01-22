@@ -1,0 +1,19 @@
+﻿////
+Copyright Glen Knowles 2019 - 2022.
+Distributed under the Boost Software License, Version 1.0.
+////
+
+NOTE: Placeholder only, unimplemented
+
+= dimtsc
+:ci-root: https://github.com/gknowles/dimtsc/actions/workflows/
+:ci-link: {ci-root}github-build.yml
+:ci-badge: image:{ci-root}github-build.yml/badge.svg
+
+[%autowidth]
+|===
+h| MSVC 2022
+| {ci-link}[{ci-badge}[Build status]]
+|===
+
+Tool for configuration and launching of Remote Desktop Client
