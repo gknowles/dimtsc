@@ -16,7 +16,7 @@ jobs:
   build-win:
     strategy:
       matrix:
-        platform: [Win32, x64]
+        platform: [x64]
         configuration: [Debug, Release]
         toolset: [v143]
         image: [windows-2022]
